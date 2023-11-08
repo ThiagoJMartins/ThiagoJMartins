@@ -3,9 +3,9 @@
 
 - 🧠 I’m currently working on **Personal PortFolio**
 
-- 🌱 I’m currently learning **TypeScript, Python, courses, etc...**
+- 🌱 I’m currently learning **TypeScript, Python, Astro, etc...**
 
-- 💬 Ask me about **React, Redux, Node.js, Express, SQL, Sequelize...**
+- 💬 Ask me about **React, Redux, Node.js, Express, PostgreSQL...**
 
 - 📫 How to reach me **thiagodev.martins@gmail.com**
 
