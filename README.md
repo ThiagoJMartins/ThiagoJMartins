@@ -25,6 +25,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-javier-martins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-javier-martins/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagojmartins&show_icons=true&locale=en&layout=compact" alt="thiagojmartins" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagojmartins&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="thiagojmartins" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagojmartins&show_icons=true&locale=en" alt="thiagojmartins" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagojmartins&show_icons=true&theme=synthwave&locale=en" alt="thiagojmartins" /></p>
