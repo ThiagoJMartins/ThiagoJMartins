@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Martins</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Ares GamesDB](https://github.com/ThiagoJMartins/Ares-GamesDB)
+- 🔭 I’m currently working on **KaroKids eCommerce**
 
 - 🌱 I’m currently learning **Python, Angular, AWS**
 
