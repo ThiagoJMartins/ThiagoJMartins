@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **thiagodev.martins@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jb9iu82f8mQT-xYmGzE5SO3nBYwVgGWp/view?usp=drive_link)
-
 - ⚡ Fun fact **I´m a geek**
 
 
