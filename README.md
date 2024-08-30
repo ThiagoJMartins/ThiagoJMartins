@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thiago Martins</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **MedicShop**
+- 🔭 I’m currently working on **The Lyrics Bay**
 
-- 🌱 I’m currently learning **Python, Angular, AWS**
+- 🌱 I’m currently learning **Angular, Zustand, Nest**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://thiagomartins.vercel.app)
 
-- 💬 Ask me about **React, Astro, JavaScript**
+- 💬 Ask me about **React, Astro, Typescript**
 
 - 📫 How to reach me **thiagodev.martins@gmail.com**
 
