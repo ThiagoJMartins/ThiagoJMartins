@@ -15,7 +15,7 @@
  🌱 I’m currently learning **React Native, Angular, Nest**
 
 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/ThiagoJMartins/ThiagoJMartins/issues)**
-👨‍💻 All of my projects are available **at my [portfolio](https://thiagomartins.vercel.app)**
+👨‍💻 All of my projects are available **at my [portfolio](https://thiagojmartins.dev)**
 
  </div>
  
